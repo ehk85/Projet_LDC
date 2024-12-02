@@ -1,0 +1,35 @@
+Commande à suivre lorsque vous souhaitez réaliser une Pull Request : 
+Avant de coder : 
+
+Récupérer la dernière version origine à jour : 
+- git fetch 
+ensuite :
+- git pull "nom_de_branche" 
+
+Se placer sur la branche origine principale : 
+- git checkout origin main (Attention à bien recupérer le derni)
+
+Créer votre branche et vous placer dessus : 
+- git checkout -b "nom_de_branche"
+
+Effectuez vos modifications 
+
+Ajouter les modifications au commit : 
+- git add . (pour tout ajouter) ou 
+- git add <nom_du_fichier>
+
+Commit : 
+- git commit -m "Infos du commit"
+
+Pousser vos modifications sur votre branche origin : 
+git push origin <nom_de_branche>
+
+Un lien apparait dans la console pour ouvrir une PR. 
+
+Sur GitHub, votre binôme doit faire une review et accepter les changements, vous pouvez ensuite merger les branches. 
+
+Remonter une branche au niveau :
+- git branch -f nom_de_branche
+
+cette permet de lister toutes les branches avec leurs date de dépot
+git for-each-ref --sort=-committerdate refs/remotes/ --format="%(refname:short) - %(committerdate)"
