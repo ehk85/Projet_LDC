@@ -3,56 +3,12 @@
         "Manchester City": {
             "matches": [
                 {
-                    "opponent": "Borussia Dortmund",
+                    "opponent": "RB Leipzig",
                     "Chapeau": 1,
                     "location": "home"
                 },
                 {
                     "opponent": "FC Barcelone",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Atalanta Bergame",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Club Bruges",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "PSV Eindhoven",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Lille",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Gérone",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Stuttgart",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Bayern Munich": {
-            "matches": [
-                {
-                    "opponent": "PSG",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Inter Milan",
                     "Chapeau": 1,
                     "location": "away"
                 },
@@ -67,22 +23,66 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Feyenoord Rotterdam",
+                    "opponent": "Young Boys",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "Étoile Rouge de Belgrade",
+                    "opponent": "Celtic",
                     "Chapeau": 3,
                     "location": "away"
                 },
                 {
-                    "opponent": "Sturm Graz",
+                    "opponent": "Stuttgart",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
                     "opponent": "Sparta Prague",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "Bayern Munich": {
+            "matches": [
+                {
+                    "opponent": "FC Barcelone",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Inter Milan",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Juventus Turin",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Atlético de Madrid",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Young Boys",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Dinamo Zagreb",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Stade Brestois",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Sturm Graz",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -91,32 +91,32 @@
         "Real Madrid": {
             "matches": [
                 {
-                    "opponent": "Liverpool",
+                    "opponent": "Inter Milan",
                     "Chapeau": 1,
                     "location": "home"
                 },
                 {
-                    "opponent": "PSG",
+                    "opponent": "RB Leipzig",
                     "Chapeau": 1,
                     "location": "away"
                 },
                 {
-                    "opponent": "Arsenal",
+                    "opponent": "Atalanta Bergame",
                     "Chapeau": 2,
                     "location": "home"
                 },
                 {
-                    "opponent": "AC Milan",
+                    "opponent": "Shakhtar Donetsk",
                     "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "RB Salzbourg",
+                    "opponent": "Étoile Rouge de Belgrade",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "Young Boys",
+                    "opponent": "Celtic",
                     "Chapeau": 3,
                     "location": "away"
                 },
@@ -126,7 +126,7 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "AS Monaco",
+                    "opponent": "Slovan Bratislava",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -135,17 +135,17 @@
         "PSG": {
             "matches": [
                 {
-                    "opponent": "Bayern Munich",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Real Madrid",
+                    "opponent": "Liverpool",
                     "Chapeau": 1,
                     "location": "home"
                 },
                 {
-                    "opponent": "Club Bruges",
+                    "opponent": "Borussia Dortmund",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "AC Milan",
                     "Chapeau": 2,
                     "location": "home"
                 },
@@ -165,12 +165,12 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Gérone",
+                    "opponent": "Slovan Bratislava",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
-                    "opponent": "Bologne",
+                    "opponent": "Aston Villa",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -179,12 +179,12 @@
         "Liverpool": {
             "matches": [
                 {
-                    "opponent": "Real Madrid",
+                    "opponent": "PSG",
                     "Chapeau": 1,
                     "location": "away"
                 },
                 {
-                    "opponent": "Inter Milan",
+                    "opponent": "Borussia Dortmund",
                     "Chapeau": 1,
                     "location": "away"
                 },
@@ -194,17 +194,17 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Benfica Lisbonne",
+                    "opponent": "Shakhtar Donetsk",
                     "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "PSV Eindhoven",
+                    "opponent": "RB Salzbourg",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "Sporting Portugal",
+                    "opponent": "Dinamo Zagreb",
                     "Chapeau": 3,
                     "location": "away"
                 },
@@ -214,7 +214,7 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Bologne",
+                    "opponent": "Gérone",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -228,56 +228,12 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Liverpool",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Bayer Leverkusen",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Benfica Lisbonne",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "RB Salzbourg",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Dinamo Zagreb",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Stuttgart",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sturm Graz",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Borussia Dortmund": {
-            "matches": [
-                {
-                    "opponent": "Manchester City",
+                    "opponent": "Real Madrid",
                     "Chapeau": 1,
                     "location": "away"
                 },
                 {
-                    "opponent": "FC Barcelone",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Atlético de Madrid",
+                    "opponent": "Club Bruges",
                     "Chapeau": 2,
                     "location": "home"
                 },
@@ -287,17 +243,17 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Dinamo Zagreb",
+                    "opponent": "PSV Eindhoven",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "Celtic",
+                    "opponent": "RB Salzbourg",
                     "Chapeau": 3,
                     "location": "away"
                 },
                 {
-                    "opponent": "Aston Villa",
+                    "opponent": "AS Monaco",
                     "Chapeau": 4,
                     "location": "home"
                 },
@@ -308,20 +264,74 @@
                 }
             ]
         },
-        "RB Leipzig": {
+        "Borussia Dortmund": {
             "matches": [
                 {
-                    "opponent": "AC Milan",
+                    "opponent": "PSG",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Liverpool",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Arsenal",
                     "Chapeau": 2,
                     "location": "home"
                 },
                 {
-                    "opponent": "Shakhtar Donetsk",
+                    "opponent": "AC Milan",
                     "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "Celtic",
+                    "opponent": "Sporting Portugal",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "PSV Eindhoven",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Aston Villa",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Bologne",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "RB Leipzig": {
+            "matches": [
+                {
+                    "opponent": "Manchester City",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Real Madrid",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Club Bruges",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Benfica Lisbonne",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Lille",
                     "Chapeau": 3,
                     "location": "home"
                 },
@@ -331,22 +341,12 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Stade Brestois",
+                    "opponent": "Sturm Graz",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
-                    "opponent": "Slovan Bratislava",
-                    "Chapeau": 4,
-                    "location": "away"
-                },
-                {
-                    "opponent": "AC Milan",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Stade Brestois",
+                    "opponent": "Gérone",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -360,37 +360,37 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Borussia Dortmund",
+                    "opponent": "Bayern Munich",
                     "Chapeau": 1,
-                    "location": "home"
+                    "location": "away"
                 },
                 {
-                    "opponent": "Shakhtar Donetsk",
+                    "opponent": "Bayer Leverkusen",
                     "Chapeau": 2,
                     "location": "home"
                 },
                 {
-                    "opponent": "Juventus Turin",
+                    "opponent": "Benfica Lisbonne",
                     "Chapeau": 2,
                     "location": "away"
+                },
+                {
+                    "opponent": "Feyenoord Rotterdam",
+                    "Chapeau": 3,
+                    "location": "home"
                 },
                 {
                     "opponent": "Lille",
                     "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Young Boys",
-                    "Chapeau": 3,
                     "location": "away"
                 },
                 {
-                    "opponent": "Slovan Bratislava",
+                    "opponent": "Bologne",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
-                    "opponent": "Aston Villa",
+                    "opponent": "Stuttgart",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -406,51 +406,7 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Inter Milan",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "AC Milan",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Benfica Lisbonne",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Young Boys",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Étoile Rouge de Belgrade",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Aston Villa",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Stade Brestois",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Atlético de Madrid": {
-            "matches": [
-                {
-                    "opponent": "Liverpool",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Borussia Dortmund",
+                    "opponent": "FC Barcelone",
                     "Chapeau": 1,
                     "location": "away"
                 },
@@ -460,7 +416,7 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Benfica Lisbonne",
+                    "opponent": "Arsenal",
                     "Chapeau": 2,
                     "location": "away"
                 },
@@ -470,12 +426,12 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Young Boys",
+                    "opponent": "Feyenoord Rotterdam",
                     "Chapeau": 3,
                     "location": "away"
                 },
                 {
-                    "opponent": "Sturm Graz",
+                    "opponent": "Stade Brestois",
                     "Chapeau": 4,
                     "location": "home"
                 },
@@ -486,20 +442,20 @@
                 }
             ]
         },
-        "Atalanta Bergame": {
+        "Atlético de Madrid": {
             "matches": [
-                {
-                    "opponent": "Manchester City",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
                 {
                     "opponent": "Bayern Munich",
                     "Chapeau": 1,
                     "location": "home"
                 },
                 {
-                    "opponent": "Club Bruges",
+                    "opponent": "Liverpool",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Juventus Turin",
                     "Chapeau": 2,
                     "location": "home"
                 },
@@ -509,17 +465,17 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Feyenoord Rotterdam",
+                    "opponent": "Celtic",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "Sporting Portugal",
+                    "opponent": "Feyenoord Rotterdam",
                     "Chapeau": 3,
                     "location": "away"
                 },
                 {
-                    "opponent": "Stade Brestois",
+                    "opponent": "Stuttgart",
                     "Chapeau": 4,
                     "location": "home"
                 },
@@ -530,17 +486,17 @@
                 }
             ]
         },
-        "Juventus Turin": {
+        "Atalanta Bergame": {
             "matches": [
                 {
-                    "opponent": "Bayern Munich",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "FC Barcelone",
+                    "opponent": "Manchester City",
                     "Chapeau": 1,
                     "location": "home"
+                },
+                {
+                    "opponent": "Real Madrid",
+                    "Chapeau": 1,
+                    "location": "away"
                 },
                 {
                     "opponent": "Arsenal",
@@ -548,27 +504,71 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Shakhtar Donetsk",
+                    "opponent": "Benfica Lisbonne",
                     "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "RB Salzbourg",
+                    "opponent": "Celtic",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "Celtic",
+                    "opponent": "Young Boys",
                     "Chapeau": 3,
                     "location": "away"
                 },
                 {
-                    "opponent": "Slovan Bratislava",
+                    "opponent": "Stuttgart",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
+                    "opponent": "Stade Brestois",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "Juventus Turin": {
+            "matches": [
+                {
+                    "opponent": "Manchester City",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Bayern Munich",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Atlético de Madrid",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Benfica Lisbonne",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Sporting Portugal",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Young Boys",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
                     "opponent": "Gérone",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Sturm Graz",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -577,42 +577,42 @@
         "Benfica Lisbonne": {
             "matches": [
                 {
-                    "opponent": "Liverpool",
+                    "opponent": "RB Leipzig",
                     "Chapeau": 1,
                     "location": "home"
                 },
                 {
-                    "opponent": "Inter Milan",
+                    "opponent": "FC Barcelone",
                     "Chapeau": 1,
                     "location": "home"
                 },
                 {
-                    "opponent": "Bayer Leverkusen",
+                    "opponent": "Atalanta Bergame",
                     "Chapeau": 2,
                     "location": "home"
                 },
                 {
-                    "opponent": "Atlético de Madrid",
+                    "opponent": "Juventus Turin",
                     "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "RB Salzbourg",
-                    "Chapeau": 3,
                     "location": "home"
                 },
                 {
                     "opponent": "Étoile Rouge de Belgrade",
                     "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "PSV Eindhoven",
+                    "Chapeau": 3,
                     "location": "away"
                 },
                 {
-                    "opponent": "Slovan Bratislava",
+                    "opponent": "Gérone",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
-                    "opponent": "Bologne",
+                    "opponent": "Aston Villa",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -621,37 +621,37 @@
         "Arsenal": {
             "matches": [
                 {
-                    "opponent": "Real Madrid",
+                    "opponent": "Inter Milan",
                     "Chapeau": 1,
-                    "location": "away"
+                    "location": "home"
                 },
                 {
                     "opponent": "Borussia Dortmund",
                     "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Bayer Leverkusen",
+                    "Chapeau": 2,
                     "location": "home"
                 },
                 {
-                    "opponent": "Juventus Turin",
+                    "opponent": "Atalanta Bergame",
                     "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "AC Milan",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Dinamo Zagreb",
+                    "opponent": "RB Salzbourg",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "Celtic",
+                    "opponent": "Sporting Portugal",
                     "Chapeau": 3,
                     "location": "away"
                 },
                 {
-                    "opponent": "Stuttgart",
+                    "opponent": "Slovan Bratislava",
                     "Chapeau": 4,
                     "location": "home"
                 },
@@ -665,97 +665,9 @@
         "Club Bruges": {
             "matches": [
                 {
-                    "opponent": "Manchester City",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "PSG",
+                    "opponent": "Inter Milan",
                     "Chapeau": 1,
                     "location": "away"
-                },
-                {
-                    "opponent": "Atlético de Madrid",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Atalanta Bergame",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Lille",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sporting Portugal",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Gérone",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sturm Graz",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Shakhtar Donetsk": {
-            "matches": [
-                {
-                    "opponent": "RB Leipzig",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "FC Barcelone",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Atalanta Bergame",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Juventus Turin",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Feyenoord Rotterdam",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Lille",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Stuttgart",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sparta Prague",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "AC Milan": {
-            "matches": [
-                {
-                    "opponent": "Real Madrid",
-                    "Chapeau": 1,
-                    "location": "home"
                 },
                 {
                     "opponent": "RB Leipzig",
@@ -768,58 +680,56 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Arsenal",
+                    "opponent": "AC Milan",
                     "Chapeau": 2,
-                    "location": "home"
+                    "location": "away"
                 },
                 {
                     "opponent": "PSV Eindhoven",
                     "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Dinamo Zagreb",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Bologne",
+                    "Chapeau": 4,
                     "location": "home"
                 },
                 {
                     "opponent": "Sparta Prague",
                     "Chapeau": 4,
                     "location": "away"
-                },
-                {
-                    "opponent": "PSV Eindhoven",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "RB Leipzig",
-                    "Chapeau": 1,
-                    "location": "away"
                 }
             ]
-        }
-    },
-    "Chapeau 3": {
-        "Feyenoord Rotterdam": {
+        },
+        "Shakhtar Donetsk": {
             "matches": [
                 {
-                    "opponent": "Bayern Munich",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "RB Leipzig",
+                    "opponent": "Real Madrid",
                     "Chapeau": 1,
                     "location": "home"
                 },
                 {
-                    "opponent": "Atalanta Bergame",
+                    "opponent": "Liverpool",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Atlético de Madrid",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "AC Milan",
                     "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "Shakhtar Donetsk",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Dinamo Zagreb",
+                    "opponent": "Lille",
                     "Chapeau": 3,
                     "location": "home"
                 },
@@ -829,12 +739,102 @@
                     "location": "away"
                 },
                 {
+                    "opponent": "Sparta Prague",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Bologne",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "AC Milan": {
+            "matches": [
+                {
+                    "opponent": "PSG",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Borussia Dortmund",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Club Bruges",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Shakhtar Donetsk",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Lille",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Étoile Rouge de Belgrade",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
                     "opponent": "Slovan Bratislava",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
-                    "opponent": "Aston Villa",
+                    "opponent": "Sturm Graz",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        }
+    },
+    "Chapeau 3": {
+        "Feyenoord Rotterdam": {
+            "matches": [
+                {
+                    "opponent": "RB Leipzig",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "FC Barcelone",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Bayer Leverkusen",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Atlético de Madrid",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Celtic",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Young Boys",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Gérone",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Stade Brestois",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -848,17 +848,17 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Liverpool",
+                    "opponent": "Borussia Dortmund",
                     "Chapeau": 1,
-                    "location": "home"
+                    "location": "away"
                 },
                 {
-                    "opponent": "Atalanta Bergame",
+                    "opponent": "Juventus Turin",
                     "Chapeau": 2,
-                    "location": "home"
+                    "location": "away"
                 },
                 {
-                    "opponent": "Club Bruges",
+                    "opponent": "Arsenal",
                     "Chapeau": 2,
                     "location": "home"
                 },
@@ -873,7 +873,139 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Gérone",
+                    "opponent": "Slovan Bratislava",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Stuttgart",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "PSV Eindhoven": {
+            "matches": [
+                {
+                    "opponent": "Inter Milan",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Borussia Dortmund",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Benfica Lisbonne",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Club Bruges",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Étoile Rouge de Belgrade",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Lille",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "AS Monaco",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Sparta Prague",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "Dinamo Zagreb": {
+            "matches": [
+                {
+                    "opponent": "Bayern Munich",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Liverpool",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Bayer Leverkusen",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Club Bruges",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "RB Salzbourg",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Étoile Rouge de Belgrade",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Slovan Bratislava",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "AS Monaco",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "RB Salzbourg": {
+            "matches": [
+                {
+                    "opponent": "Liverpool",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Inter Milan",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Arsenal",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Shakhtar Donetsk",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Sporting Portugal",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Dinamo Zagreb",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Stuttgart",
                     "Chapeau": 4,
                     "location": "home"
                 },
@@ -884,16 +1016,21 @@
                 }
             ]
         },
-        "PSV Eindhoven": {
+        "Lille": {
             "matches": [
                 {
-                    "opponent": "Manchester City",
+                    "opponent": "RB Leipzig",
                     "Chapeau": 1,
                     "location": "away"
                 },
                 {
-                    "opponent": "Liverpool",
+                    "opponent": "FC Barcelone",
                     "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Shakhtar Donetsk",
+                    "Chapeau": 2,
                     "location": "away"
                 },
                 {
@@ -902,7 +1039,51 @@
                     "location": "away"
                 },
                 {
-                    "opponent": "Young Boys",
+                    "opponent": "PSV Eindhoven",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Celtic",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Bologne",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Sparta Prague",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "Étoile Rouge de Belgrade": {
+            "matches": [
+                {
+                    "opponent": "Real Madrid",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "PSG",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Benfica Lisbonne",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "AC Milan",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "PSV Eindhoven",
                     "Chapeau": 3,
                     "location": "away"
                 },
@@ -912,193 +1093,12 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "AC Milan",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Sparta Prague",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Stade Brestois",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Dinamo Zagreb": {
-            "matches": [
-                {
-                    "opponent": "Inter Milan",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Borussia Dortmund",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Atlético de Madrid",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Arsenal",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Feyenoord Rotterdam",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "PSV Eindhoven",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "AS Monaco",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
                     "opponent": "Gérone",
                     "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "RB Salzbourg": {
-            "matches": [
-                {
-                    "opponent": "Real Madrid",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Inter Milan",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Juventus Turin",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Benfica Lisbonne",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Feyenoord Rotterdam",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sporting Portugal",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Stuttgart",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Stade Brestois",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Lille": {
-            "matches": [
-                {
-                    "opponent": "Manchester City",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "FC Barcelone",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Club Bruges",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Shakhtar Donetsk",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Étoile Rouge de Belgrade",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Celtic",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Sparta Prague",
-                    "Chapeau": 4,
                     "location": "home"
                 },
                 {
                     "opponent": "Sturm Graz",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Étoile Rouge de Belgrade": {
-            "matches": [
-                {
-                    "opponent": "Bayern Munich",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "PSG",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Bayer Leverkusen",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Benfica Lisbonne",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Lille",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Celtic",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Sturm Graz",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Slovan Bratislava",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -1107,23 +1107,28 @@
         "Young Boys": {
             "matches": [
                 {
-                    "opponent": "Real Madrid",
+                    "opponent": "Manchester City",
                     "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "FC Barcelone",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Bayer Leverkusen",
-                    "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "Atlético de Madrid",
+                    "opponent": "Bayern Munich",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Atalanta Bergame",
                     "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Juventus Turin",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Feyenoord Rotterdam",
+                    "Chapeau": 3,
                     "location": "home"
                 },
                 {
@@ -1132,17 +1137,12 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "PSV Eindhoven",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "AS Monaco",
+                    "opponent": "Sturm Graz",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
-                    "opponent": "Stuttgart",
+                    "opponent": "Stade Brestois",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -1151,24 +1151,29 @@
         "Celtic": {
             "matches": [
                 {
-                    "opponent": "Borussia Dortmund",
+                    "opponent": "Manchester City",
                     "Chapeau": 1,
                     "location": "home"
                 },
                 {
-                    "opponent": "RB Leipzig",
+                    "opponent": "Real Madrid",
                     "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Atlético de Madrid",
+                    "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "Juventus Turin",
+                    "opponent": "Atalanta Bergame",
                     "Chapeau": 2,
-                    "location": "home"
+                    "location": "away"
                 },
                 {
-                    "opponent": "Arsenal",
-                    "Chapeau": 2,
-                    "location": "home"
+                    "opponent": "Feyenoord Rotterdam",
+                    "Chapeau": 3,
+                    "location": "away"
                 },
                 {
                     "opponent": "Lille",
@@ -1176,12 +1181,7 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Étoile Rouge de Belgrade",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Bologne",
+                    "opponent": "Aston Villa",
                     "Chapeau": 4,
                     "location": "home"
                 },
@@ -1197,7 +1197,183 @@
         "Slovan Bratislava": {
             "matches": [
                 {
-                    "opponent": "RB Leipzig",
+                    "opponent": "Real Madrid",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "PSG",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Arsenal",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "AC Milan",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Sporting Portugal",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Dinamo Zagreb",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Gérone",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Sturm Graz",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "AS Monaco": {
+            "matches": [
+                {
+                    "opponent": "Liverpool",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Inter Milan",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Bayer Leverkusen",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Arsenal",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "PSV Eindhoven",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Dinamo Zagreb",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Bologne",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Sparta Prague",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "Sparta Prague": {
+            "matches": [
+                {
+                    "opponent": "Manchester City",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Real Madrid",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Club Bruges",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Shakhtar Donetsk",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "PSV Eindhoven",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Lille",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "AS Monaco",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Stuttgart",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "Aston Villa": {
+            "matches": [
+                {
+                    "opponent": "PSG",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Borussia Dortmund",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Atlético de Madrid",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Benfica Lisbonne",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "RB Salzbourg",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Celtic",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Sturm Graz",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Bologne",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "Bologne": {
+            "matches": [
+                {
+                    "opponent": "Borussia Dortmund",
                     "Chapeau": 1,
                     "location": "home"
                 },
@@ -1205,6 +1381,50 @@
                     "opponent": "FC Barcelone",
                     "Chapeau": 1,
                     "location": "away"
+                },
+                {
+                    "opponent": "Club Bruges",
+                    "Chapeau": 2,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Shakhtar Donetsk",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Lille",
+                    "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Celtic",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
+                    "opponent": "AS Monaco",
+                    "Chapeau": 4,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Aston Villa",
+                    "Chapeau": 4,
+                    "location": "home"
+                }
+            ]
+        },
+        "Gérone": {
+            "matches": [
+                {
+                    "opponent": "Liverpool",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "RB Leipzig",
+                    "Chapeau": 1,
+                    "location": "home"
                 },
                 {
                     "opponent": "Juventus Turin",
@@ -1224,235 +1444,15 @@
                 {
                     "opponent": "Étoile Rouge de Belgrade",
                     "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sparta Prague",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Aston Villa",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "AS Monaco": {
-            "matches": [
-                {
-                    "opponent": "Real Madrid",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Liverpool",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Atlético de Madrid",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Arsenal",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Dinamo Zagreb",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Young Boys",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Bologne",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sturm Graz",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Sparta Prague": {
-            "matches": [
-                {
-                    "opponent": "Bayern Munich",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Real Madrid",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Shakhtar Donetsk",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "AC Milan",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "PSV Eindhoven",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Lille",
-                    "Chapeau": 3,
                     "location": "away"
                 },
                 {
                     "opponent": "Slovan Bratislava",
                     "Chapeau": 4,
                     "location": "away"
-                },
-                {
-                    "opponent": "Sturm Graz",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Aston Villa": {
-            "matches": [
-                {
-                    "opponent": "Borussia Dortmund",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "FC Barcelone",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Bayer Leverkusen",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Atalanta Bergame",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Feyenoord Rotterdam",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sporting Portugal",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Slovan Bratislava",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Stuttgart",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Bologne": {
-            "matches": [
-                {
-                    "opponent": "PSG",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Liverpool",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Benfica Lisbonne",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Celtic",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "AS Monaco",
-                    "Chapeau": 4,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Gérone",
-                    "Chapeau": 4,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Celtic",
-                    "Chapeau": 3,
-                    "location": "home"
                 },
                 {
                     "opponent": "Stade Brestois",
-                    "Chapeau": 4,
-                    "location": "away"
-                }
-            ]
-        },
-        "Gérone": {
-            "matches": [
-                {
-                    "opponent": "Manchester City",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "PSG",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Juventus Turin",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Club Bruges",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Sporting Portugal",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Dinamo Zagreb",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Bologne",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Stuttgart",
                     "Chapeau": 4,
                     "location": "away"
                 }
@@ -1463,22 +1463,27 @@
                 {
                     "opponent": "Manchester City",
                     "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "FC Barcelone",
+                    "Chapeau": 1,
                     "location": "home"
                 },
                 {
-                    "opponent": "Inter Milan",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Arsenal",
+                    "opponent": "Atlético de Madrid",
                     "Chapeau": 2,
                     "location": "away"
                 },
                 {
-                    "opponent": "Shakhtar Donetsk",
+                    "opponent": "Atalanta Bergame",
                     "Chapeau": 2,
                     "location": "away"
+                },
+                {
+                    "opponent": "Sporting Portugal",
+                    "Chapeau": 3,
+                    "location": "home"
                 },
                 {
                     "opponent": "RB Salzbourg",
@@ -1486,23 +1491,62 @@
                     "location": "away"
                 },
                 {
+                    "opponent": "Sparta Prague",
+                    "Chapeau": 4,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Stade Brestois",
+                    "Chapeau": 4,
+                    "location": "away"
+                }
+            ]
+        },
+        "Sturm Graz": {
+            "matches": [
+                {
+                    "opponent": "Bayern Munich",
+                    "Chapeau": 1,
+                    "location": "home"
+                },
+                {
+                    "opponent": "RB Leipzig",
+                    "Chapeau": 1,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Juventus Turin",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "AC Milan",
+                    "Chapeau": 2,
+                    "location": "home"
+                },
+                {
+                    "opponent": "Étoile Rouge de Belgrade",
+                    "Chapeau": 3,
+                    "location": "home"
+                },
+                {
                     "opponent": "Young Boys",
                     "Chapeau": 3,
+                    "location": "away"
+                },
+                {
+                    "opponent": "Slovan Bratislava",
+                    "Chapeau": 4,
                     "location": "home"
                 },
                 {
                     "opponent": "Aston Villa",
                     "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Gérone",
-                    "Chapeau": 4,
-                    "location": "home"
+                    "location": "away"
                 }
             ]
         },
-        "Sturm Graz": {
+        "Stade Brestois": {
             "matches": [
                 {
                     "opponent": "Bayern Munich",
@@ -1515,77 +1559,33 @@
                     "location": "home"
                 },
                 {
-                    "opponent": "Atlético de Madrid",
-                    "Chapeau": 2,
-                    "location": "away"
-                },
-                {
-                    "opponent": "Club Bruges",
-                    "Chapeau": 2,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Lille",
-                    "Chapeau": 3,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Étoile Rouge de Belgrade",
-                    "Chapeau": 3,
-                    "location": "away"
-                },
-                {
-                    "opponent": "AS Monaco",
-                    "Chapeau": 4,
-                    "location": "home"
-                },
-                {
-                    "opponent": "Sparta Prague",
-                    "Chapeau": 4,
-                    "location": "home"
-                }
-            ]
-        },
-        "Stade Brestois": {
-            "matches": [
-                {
-                    "opponent": "Borussia Dortmund",
-                    "Chapeau": 1,
-                    "location": "home"
-                },
-                {
-                    "opponent": "RB Leipzig",
-                    "Chapeau": 1,
-                    "location": "away"
-                },
-                {
                     "opponent": "Bayer Leverkusen",
                     "Chapeau": 2,
-                    "location": "home"
+                    "location": "away"
                 },
                 {
                     "opponent": "Atalanta Bergame",
                     "Chapeau": 2,
-                    "location": "away"
+                    "location": "home"
                 },
                 {
-                    "opponent": "PSV Eindhoven",
+                    "opponent": "Feyenoord Rotterdam",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "RB Salzbourg",
+                    "opponent": "Young Boys",
                     "Chapeau": 3,
                     "location": "home"
                 },
                 {
-                    "opponent": "Bologne",
+                    "opponent": "Gérone",
                     "Chapeau": 4,
                     "location": "home"
                 },
                 {
-                    "opponent": "RB Leipzig",
-                    "Chapeau": 1,
+                    "opponent": "Stuttgart",
+                    "Chapeau": 4,
                     "location": "home"
                 }
             ]
