@@ -134,8 +134,5 @@ class LDC:
             json.dump(self.matches, outfile, indent=4, ensure_ascii=False)
         print("Résultats enregistrés dans 'matchs_ligue.json'.")
 
-# Exemple d'utilisation
-tirage = LDC(r'Ressources\api object\teams.json')
-tirage.tirer_les_equipes_par_chapeau()
-tirage.sauvegarder_json()
- 
+
+
