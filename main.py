@@ -3,7 +3,7 @@ from Tirage.frontend_tirage import PDF
 import json, time
 
 
-for _ in range(4):
+for _ in range(3):
     tirage = LDC(r'Ressources\api object\teams.json')
     tirage.tirer_les_equipes_par_chapeau()
     tirage.sauvegarder_json()
